@@ -17,7 +17,12 @@ docker run -p 8080:8080 \
     --name imaginary \
     --restart always \
     cubetiq/imaginary:latest
+    -cors -gzip
 ```
+
+### Reference
+
+-   GitHub [view here](https://github.com/h2non/imaginary#google-cloud-run)
 
 ### Contributors
 
