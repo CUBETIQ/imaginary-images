@@ -7,13 +7,13 @@
 -   Run (Tempo)
 
 ```shell
-docker run --rm -p 8080:8080 cubetiq/imaginary:latest
+docker run --rm -p 9000:9000 cubetiq/imaginary:latest
 ```
 
 -   Run
 
 ```shell
-docker run -p 8080:8080 \
+docker run -p 9000:9000 \
     --name imaginary \
     --restart always \
     cubetiq/imaginary:latest
