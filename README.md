@@ -22,7 +22,7 @@ docker run -p 9000:9000 \
 
 ### Reference
 
--   GitHub [view here](https://github.com/h2non/imaginary#google-cloud-run)
+-   GitHub [view here](https://github.com/h2non/imaginary)
 
 ### Contributors
 
