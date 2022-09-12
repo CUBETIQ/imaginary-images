@@ -1,3 +1,4 @@
 [submodule "imaginary"]
 	path = imaginary
 	url = https://github.com/CUBETIQ/imaginary.git
+	branch = main
